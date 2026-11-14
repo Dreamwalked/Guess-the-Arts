@@ -19,7 +19,6 @@ Open http://localhost:3000. `npm test` checks the question schedule, answer matc
 - One accepted answer per round, skip, answer reveals, results, and copyable spoiler-free scores.
 - Per-edition browser-local progress, including unfinished sessions.
 - Responsive daily landing page, archive, and instructions.
-- No timer; daily calendar uses America/Chicago.
 
 ## Editing questions
 
