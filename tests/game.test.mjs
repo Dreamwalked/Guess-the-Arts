@@ -1,0 +1,14 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import questions from '../lib/questions.json' with {type:'json'};
+import days from '../lib/days.json' with {type:'json'};
+import {normalize,matchAnswer,totalScore,todayKey,suggestAnswers,editDistance,tiers} from '../lib/game.mjs';
+import {october31Questions} from '../lib/october31.mjs';
+import {editionQuestions} from '../lib/editions/index.mjs';
+test('12 dated editions each have ten valid prompts without repeats within a day',()=>{assert.equal(Object.keys(days).length,12);const definitions=[...questions,...october31Questions,...editionQuestions];for(const ids of Object.values(days)){assert.equal(ids.length,10);assert.equal(new Set(ids).size,10);for(const id of ids){const q=definitions.find(q=>q.id===id);assert.ok(q);assert.ok(q.answers.length>=2);assert.equal(new Set(q.answers.map(a=>normalize(a.title))).size,q.answers.length);for(const a of q.answers){assert.ok([20,40,60,80,100].includes(a.points));assert.equal(matchAnswer(q,a.title),a);}}}});
+test('punctuation, case, accents and explicit aliases match',()=>{const q=questions.find(q=>q.prompt.includes('dystopian'));assert.equal(matchAnswer(q,'1984').title,'Nineteen Eighty-Four');assert.equal(normalize('The BÉATLES!'),normalize('beatles'));assert.equal(matchAnswer(q,'not a novel'),undefined);});
+test('date rollover uses Chicago and scoring handles skips',()=>{assert.equal(todayKey(new Date('2026-10-31T04:59:00Z')),'2026-10-30');assert.equal(todayKey(new Date('2026-10-31T05:00:00Z')),'2026-10-31');assert.equal(totalScore([{points:100},{points:0},{points:25}]),125);});
+
+test('five tiers are represented with consistent labels',()=>{assert.deepEqual(Object.values(tiers),['Common','Uncommon','Rare','Epic','Legendary']);for(const q of questions)for(const a of q.answers)assert.equal(a.rarity,tiers[a.points].toLowerCase());});
+test('suggestions handle misspellings and transpositions without accepting them',()=>{const q=questions.find(q=>q.prompt.includes('ghost.'));assert.equal(matchAnswer(q,'Ghostbustres'),undefined);assert.equal(suggestAnswers(q,'Ghostbustres')[0].title,'Ghostbusters');assert.equal(suggestAnswers(q,'Beetlejuce')[0].title,'Beetlejuice');assert.equal(suggestAnswers(q,'Caspr')[0].title,'Casper');assert.deepEqual(suggestAnswers(q,'Ghostbusters'),[]);assert.deepEqual(suggestAnswers(q,'cat'),[]);assert.deepEqual(suggestAnswers(q,'completely unrelated answer'),[]);assert.equal(editDistance('ab','ba'),1);});
+test('suggestions handle aliases and ambiguous close matches without choosing for player',()=>{const q={answers:[{title:'First',aliases:['aaaa']},{title:'Second',aliases:['aaab']}]};assert.deepEqual(suggestAnswers(q,'aaac').map(a=>a.title),['First','Second']);assert.equal(matchAnswer(q,'aaac'),undefined);assert.equal(normalize('Therapy'),'therapy');assert.equal(normalize(' The Hobbit '),'hobbit');});

@@ -1,0 +1,2530 @@
+[
+ {
+  "id": "nov01-oscar-hosts",
+  "category": "Culture",
+  "prompt": "Name someone who has hosted the Academy Awards.",
+  "hint": "Solo hosts and co-hosts both count, in any year of the ceremony.",
+  "answers": [
+   {
+    "title": "Billy Crystal",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Ellen DeGeneres",
+    "aliases": [
+     "Ellen"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Jimmy Kimmel",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Chris Rock",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Whoopi Goldberg",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Hugh Jackman",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Seth MacFarlane",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Bob Hope",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Neil Patrick Harris",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Steve Martin",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Jon Stewart",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Conan O’Brien",
+    "aliases": [
+     "Conan O'Brien",
+     "Conan"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "David Letterman",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Johnny Carson",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Amy Schumer",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Regina Hall",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Wanda Sykes",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Anne Hathaway",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "James Franco",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Alec Baldwin",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Chevy Chase",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Goldie Hawn",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Paul Hogan",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Jerry Lewis",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Donald O’Connor",
+    "aliases": [
+     "Donald O'Connor"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-ten-nominations",
+  "category": "Film",
+  "prompt": "Name a film nominated for ten or more Academy Awards.",
+  "hint": "Nominations, not wins. Count the total across all categories in a single ceremony.",
+  "answers": [
+   {
+    "title": "Titanic",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "La La Land",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Oppenheimer",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Forrest Gump",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Gone with the Wind",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "The Shape of Water",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Mary Poppins",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Chicago",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Schindler’s List",
+    "aliases": [
+     "Schindler's List"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Lincoln",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Joker",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Poor Things",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Gandhi",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Amadeus",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Everything Everywhere All at Once",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Curious Case of Benjamin Button",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Shakespeare in Love",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "All About Eve",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Gravity",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "American Hustle",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-200-episodes",
+  "category": "Television",
+  "prompt": "Name a TV series that ran for more than 200 episodes.",
+  "hint": "Any kind of series, scripted or not. It counts if it passed 200 episodes in total, including revivals.",
+  "answers": [
+   {
+    "title": "Friends",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Simpsons",
+    "aliases": [
+     "Simpsons"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Office",
+    "aliases": [
+     "The Office (US)",
+     "The Office US"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Grey’s Anatomy",
+    "aliases": [
+     "Grey's Anatomy"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Big Bang Theory",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Modern Family",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Supernatural",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Family Guy",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "South Park",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "SpongeBob SquarePants",
+    "aliases": [
+     "Spongebob"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "NCIS",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Law & Order",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Doctor Who",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Naruto",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "One Piece",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "ER",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Frasier",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Cheers",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "M*A*S*H",
+    "aliases": [
+     "MASH"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "How I Met Your Mother",
+    "aliases": [
+     "HIMYM"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Smallville",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Criminal Minds",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Bones",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "CSI: Crime Scene Investigation",
+    "aliases": [
+     "CSI"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Two and a Half Men",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Everybody Loves Raymond",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Happy Days",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Saturday Night Live",
+    "aliases": [
+     "SNL"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "EastEnders",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Coronation Street",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Dragon Ball Z",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Pokémon",
+    "aliases": [
+     "Pokemon"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Law & Order: Special Victims Unit",
+    "aliases": [
+     "Law and Order SVU",
+     "SVU"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Stargate SG-1",
+    "aliases": [
+     "Stargate SG1",
+     "SG-1"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The X-Files",
+    "aliases": [
+     "X-Files"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Will & Grace",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The King of Queens",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Home Improvement",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Roseanne",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Married… with Children",
+    "aliases": [
+     "Married with Children"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Family Matters",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Little House on the Prairie",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Waltons",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Andy Griffith Show",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Murder, She Wrote",
+    "aliases": [
+     "Murder She Wrote"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Walker, Texas Ranger",
+    "aliases": [
+     "Walker Texas Ranger"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Beverly Hills, 90210",
+    "aliases": [
+     "90210",
+     "Beverly Hills 90210"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Melrose Place",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Dallas",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Gunsmoke",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Bonanza",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Perry Mason",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Hawaii Five-O",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Adventure Time",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Regular Show",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Phineas and Ferb",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Arthur",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Naruto: Shippuden",
+    "aliases": [
+     "Naruto Shippuden"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Bleach",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Fairy Tail",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "King of the Hill",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "American Dad!",
+    "aliases": [
+     "American Dad"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Keeping Up with the Kardashians",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Survivor",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Jeopardy!",
+    "aliases": [
+     "Jeopardy"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Wheel of Fortune",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Price Is Right",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Tonight Show Starring Johnny Carson",
+    "aliases": [
+     "The Tonight Show"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Sesame Street",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Mister Rogers’ Neighborhood",
+    "aliases": [
+     "Mister Rogers' Neighborhood"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Heartbeat",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Emmerdale",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Hollyoaks",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Casualty",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Bill",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Holby City",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Detective Conan",
+    "aliases": [
+     "Case Closed",
+     "Meitantei Conan"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Gintama",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-three-hours",
+  "category": "Film",
+  "prompt": "Name a film with a runtime of over three hours.",
+  "hint": "The theatrical or standard release version must run longer than 180 minutes.",
+  "answers": [
+   {
+    "title": "Titanic",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Gone with the Wind",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Avengers: Endgame",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Lord of the Rings: The Return of the King",
+    "aliases": [
+     "Return of the King"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Lawrence of Arabia",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "The Godfather Part II",
+    "aliases": [
+     "Godfather Part 2",
+     "The Godfather Part 2"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Ben-Hur",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Schindler’s List",
+    "aliases": [
+     "Schindler's List"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "The Irishman",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Killers of the Flower Moon",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Avatar: The Way of Water",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Seven Samurai",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Dances with Wolves",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Gandhi",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Doctor Zhivago",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Ten Commandments",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Spartacus",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Once Upon a Time in America",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "JFK",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Malcolm X",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Magnolia",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Pearl Harbor",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "RRR",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Brutalist",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Reds",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Cleopatra",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Sholay",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Lagaan",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "The Hateful Eight",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Heaven’s Gate",
+    "aliases": [
+     "Heaven's Gate"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Hamlet",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Kabhi Khushi Kabhie Gham",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Mughal-e-Azam",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Sátántangó",
+    "aliases": [
+     "Satantango"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-reunited-band",
+  "category": "Music",
+  "prompt": "Name a band that broke up and later reunited.",
+  "hint": "The band must have split or gone on hiatus, then got back together, even if only for a tour.",
+  "answers": [
+   {
+    "title": "Oasis",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Police",
+    "aliases": [
+     "Police"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Eagles",
+    "aliases": [
+     "The Eagles"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Spice Girls",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Take That",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Black Sabbath",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Rage Against the Machine",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Blur",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Guns N’ Roses",
+    "aliases": [
+     "Guns N' Roses",
+     "Guns and Roses"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Blink-182",
+    "aliases": [
+     "Blink 182"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Fleetwood Mac",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Simon & Garfunkel",
+    "aliases": [
+     "Simon and Garfunkel"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "*NSYNC",
+    "aliases": [
+     "NSYNC",
+     "N Sync"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Destiny’s Child",
+    "aliases": [
+     "Destiny's Child"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Pixies",
+    "aliases": [
+     "The Pixies"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Pulp",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "My Chemical Romance",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Sex Pistols",
+    "aliases": [
+     "The Sex Pistols"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Stone Roses",
+    "aliases": [
+     "Stone Roses"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Verve",
+    "aliases": [
+     "Verve"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Genesis",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Cream",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Mötley Crüe",
+    "aliases": [
+     "Motley Crue"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Smashing Pumpkins",
+    "aliases": [
+     "The Smashing Pumpkins"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Soundgarden",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Faith No More",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Westlife",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Boyzone",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Steps",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "S Club 7",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Girls Aloud",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Sugababes",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Specials",
+    "aliases": [
+     "Specials"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Madness",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Spandau Ballet",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Fall Out Boy",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Outkast",
+    "aliases": [
+     "OutKast"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Fugees",
+    "aliases": [
+     "The Fugees"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "LCD Soundsystem",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Deep Purple",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Jesus and Mary Chain",
+    "aliases": [
+     "Jesus and Mary Chain"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "My Bloody Valentine",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Slowdive",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Ride",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Pavement",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Dinosaur Jr.",
+    "aliases": [
+     "Dinosaur Jr"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Sleater-Kinney",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "At the Drive-In",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Hole",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Suede",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Supergrass",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Pogues",
+    "aliases": [
+     "Pogues"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Replacements",
+    "aliases": [
+     "Replacements"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Temple of the Dog",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Sunny Day Real Estate",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Jawbreaker",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "The Stooges",
+    "aliases": [
+     "Stooges"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "New York Dolls",
+    "aliases": [
+     "The New York Dolls"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Television",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Gang of Four",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Wire",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Swans",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "L7",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Weezer",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   }
+  ]
+ },
+ {
+  "id": "nov01-serial-novel",
+  "category": "Literature",
+  "prompt": "Name a novel that was first published in installments.",
+  "hint": "Serialized in a magazine or newspaper before, or while, appearing as a book.",
+  "answers": [
+   {
+    "title": "Great Expectations",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Oliver Twist",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "A Tale of Two Cities",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "David Copperfield",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "The Count of Monte Cristo",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "The Three Musketeers",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Anna Karenina",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Crime and Punishment",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "War and Peace",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Madame Bovary",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Bleak House",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Vanity Fair",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Uncle Tom’s Cabin",
+    "aliases": [
+     "Uncle Tom's Cabin"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Tess of the d’Urbervilles",
+    "aliases": [
+     "Tess of the d'Urbervilles"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Picture of Dorian Gray",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The War of the Worlds",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Phantom of the Opera",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Pickwick Papers",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Middlemarch",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Far from the Madding Crowd",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Little Dorrit",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Hard Times",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Nicholas Nickleby",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Old Curiosity Shop",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Brothers Karamazov",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Idiot",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Lost World",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Green Mile",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Bonfire of the Vanities",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Ulysses",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Our Mutual Friend",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Dombey and Son",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Barnaby Rudge",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "The Moonstone",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "The Woman in White",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Tales of the City",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-ten-weeks",
+  "category": "Music",
+  "prompt": "Name a song that spent ten or more weeks at number one on the Billboard Hot 100.",
+  "hint": "Consecutive or total weeks at number one on the US Hot 100.",
+  "answers": [
+   {
+    "title": "Old Town Road",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Despacito",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Uptown Funk",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Shape of You",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "As It Was",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Macarena",
+    "aliases": [
+     "Macarena (Bayside Boys Mix)"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Smooth",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "I Gotta Feeling",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Blurred Lines",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "See You Again",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Happy",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Lose Yourself",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "God’s Plan",
+    "aliases": [
+     "God's Plan"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "One Sweet Day",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Low",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Maria Maria",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Physical",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Yeah!",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Boom Boom Pow",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Don’t Be Cruel",
+    "aliases": [
+     "Don't Be Cruel",
+     "Hound Dog",
+     "Hound Dog / Don't Be Cruel"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-100m-author",
+  "category": "Literature",
+  "prompt": "Name an author whose books have sold over 100 million copies.",
+  "hint": "Total career sales as commonly reported, across all of their titles.",
+  "answers": [
+   {
+    "title": "Stephen King",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "J. K. Rowling",
+    "aliases": [
+     "J.K. Rowling",
+     "JK Rowling",
+     "Rowling"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Agatha Christie",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Dr. Seuss",
+    "aliases": [
+     "Dr Seuss",
+     "Theodor Geisel"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Roald Dahl",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Dan Brown",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "John Grisham",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Paulo Coelho",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Michael Crichton",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Stephenie Meyer",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "J. R. R. Tolkien",
+    "aliases": [
+     "J.R.R. Tolkien",
+     "Tolkien"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "C. S. Lewis",
+    "aliases": [
+     "C.S. Lewis"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Enid Blyton",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "R. L. Stine",
+    "aliases": [
+     "R.L. Stine"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Suzanne Collins",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Terry Pratchett",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Rick Riordan",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Lee Child",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Sidney Sheldon",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Robert Ludlum",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Dean Koontz",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Harold Robbins",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Janet Evanovich",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-stage-to-film",
+  "category": "Film",
+  "prompt": "Name a stage musical that was adapted into a feature film.",
+  "hint": "The film must be based on a stage musical, not the other way round.",
+  "answers": [
+   {
+    "title": "Grease",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Chicago",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Les Misérables",
+    "aliases": [
+     "Les Miserables"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "West Side Story",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Sound of Music",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Mamma Mia!",
+    "aliases": [
+     "Mamma Mia"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Hairspray",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Cats",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "The Phantom of the Opera",
+    "aliases": [
+     "Phantom of the Opera"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Wicked",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Annie",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Oliver!",
+    "aliases": [
+     "Oliver"
+    ],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Cabaret",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Fiddler on the Roof",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "My Fair Lady",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Into the Woods",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Dreamgirls",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Rent",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Evita",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "aliases": [
+     "Sweeney Todd"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Little Shop of Horrors",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Rocky Horror Show",
+    "aliases": [
+     "The Rocky Horror Picture Show",
+     "Rocky Horror"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Oklahoma!",
+    "aliases": [
+     "Oklahoma"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Hello, Dolly!",
+    "aliases": [
+     "Hello Dolly"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Funny Girl",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Jesus Christ Superstar",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Jersey Boys",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "The Producers",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "In the Heights",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Dear Evan Hansen",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Matilda",
+    "aliases": [
+     "Matilda the Musical"
+    ],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Guys and Dolls",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "South Pacific",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The King and I",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Carousel",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Gypsy",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Camelot",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Godspell",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Hair",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "A Chorus Line",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Bye Bye Birdie",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Sweet Charity",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Mame",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Nine",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Tick, Tick... Boom!",
+    "aliases": [
+     "Tick Tick Boom"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "The Color Purple",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Kiss Me, Kate",
+    "aliases": [
+     "Kiss Me Kate"
+    ],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Show Boat",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "42nd Street",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Seven Brides for Seven Brothers",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Brigadoon",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Bells Are Ringing",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Damn Yankees",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Pal Joey",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ },
+ {
+  "id": "nov01-animated-700m",
+  "category": "Film",
+  "prompt": "Name an animated film that grossed over $700 million worldwide.",
+  "hint": "Worldwide theatrical gross, including re-releases. Photoreal CGI remakes do not count as animated.",
+  "answers": [
+   {
+    "title": "Frozen",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Frozen II",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "The Super Mario Bros. Movie",
+    "aliases": [
+     "Super Mario Bros Movie"
+    ],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Inside Out 2",
+    "aliases": [],
+    "points": 20,
+    "rarity": "common"
+   },
+   {
+    "title": "Incredibles 2",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Toy Story 4",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Toy Story 3",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Zootopia",
+    "aliases": [],
+    "points": 40,
+    "rarity": "uncommon"
+   },
+   {
+    "title": "Finding Dory",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Minions",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Despicable Me 3",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Despicable Me 2",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Moana 2",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Finding Nemo",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Shrek 2",
+    "aliases": [],
+    "points": 60,
+    "rarity": "rare"
+   },
+   {
+    "title": "Up",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Coco",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Inside Out",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Despicable Me 4",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Minions: The Rise of Gru",
+    "aliases": [
+     "Rise of Gru"
+    ],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Shrek the Third",
+    "aliases": [],
+    "points": 80,
+    "rarity": "epic"
+   },
+   {
+    "title": "Shrek Forever After",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Ice Age: Continental Drift",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "The Secret Life of Pets",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   },
+   {
+    "title": "Ne Zha 2",
+    "aliases": [],
+    "points": 100,
+    "rarity": "legendary"
+   }
+  ]
+ }
+]
